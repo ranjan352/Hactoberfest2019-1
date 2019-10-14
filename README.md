@@ -3,7 +3,6 @@ A repo for new open source contributers to begin with open source contribution. 
 Star this repository.
 
 Generate and get idea by making pull request to this repo and complete Hactoberfest 2019. <br />
-
 People who completed Hacktoberfest'19 using this repository. <br />
 1-Arush Saxena <br />
 2-Atyant Yadav <br />
